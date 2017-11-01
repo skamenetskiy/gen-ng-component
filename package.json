@@ -1,0 +1,16 @@
+{
+  "name": "gen-ng-component",
+  "version": "1.0.0",
+  "description": "A micro cli app to generate angularjs component according to John Papa's styleguide",
+  "main": "gen-ng-component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angularjs",
+    "component",
+    "cli"
+  ],
+  "author": "Simon Kamenetskii <even.simon@gmail.com>",
+  "license": "MIT"
+}
