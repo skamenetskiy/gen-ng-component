@@ -1,0 +1,10 @@
+language: node
+node_js:
+  - 6
+deploy:
+  provider: npm
+  email: "even.simon@gmail.com"
+  api_key:
+    secure: Cng/3WrhcaLw2+5EvpYD3AWxCuvXCH4g2LDApNprIT12XzipjZbYhAlcOQlNDKjmPLR7luyHffd2RR8bvciLNFqP9yu6g97dYG120WSgQSC0XlICbmjN5hwM5ylW4F/KcOwuQBSNZgvge19UfDnid/5lwDYx4WVy0uJPc+CEpb/ivQRtsBpgDpiGrM3W99rlGVDSEWerfe8FkVumB6a2cy1j5vqBagY4jryDCa7G2721xCpi+wpJrN3BVs5+qE3imSTzmQJpSqMNRfskejFRi4v5vUwq46seGPXIbwA1JIKzvNpjkOmCKx5ctn+SNt7FKmYmhVN8ymQR3acinxx8VVZOlgm4MawusXYWFcuLAhQir4fCryQ09azMLXM3UEh+UZIPiLUpx65kCpB6BrqYA7iyHj3sdIvQglPAB8Z/pkEW2v8ppAp/TQTwnrAYGmGeiHiXb/2OKEe/CHaXOWPKHNEZzSdHG5qEcr/Qkfb/nUG9KH806G/SZE3Df8aLM420RnHwHMVovg3oZP9G3CPbsZC8vF8Qb6BnjXjKYKLMa19nmjs+5x0DmxwLUkSgau+OmaiOkYCc2aKxJVi1ic2YB1c1hQYkMQRdNM7dsllbKXQRDJyOLWqfWF/tqts8OYuEef95iSOgsZxoxh+bqTT9dlJ19NAfugI8jS4J2yqt0/o=
+  on:
+    tags: true
