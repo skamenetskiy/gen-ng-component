@@ -11,6 +11,9 @@
     "component",
     "cli"
   ],
+  "bin": {
+    "gen-ng-component": "./gen-ng-component.js"
+  },
   "author": "Simon Kamenetskii <even.simon@gmail.com>",
   "license": "MIT"
 }
