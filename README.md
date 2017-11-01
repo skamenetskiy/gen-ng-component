@@ -1,4 +1,5 @@
 # gen-ng-component
+[![Build Status](https://travis-ci.org/skamenetskiy/gen-ng-component.svg?branch=master)](https://travis-ci.org/skamenetskiy/gen-ng-component)
 
 This micro-app generates an angularjs component according to John Papa's [styleguide](https://github.com/johnpapa/angular-styleguide).
 
